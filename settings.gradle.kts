@@ -1,0 +1,1 @@
+rootProject.name = "FamilyTree_AlimzhanKamiev_Midterm"
